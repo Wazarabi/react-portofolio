@@ -39,3 +39,10 @@
     9. RUN *npm i react-icons*
     10. COPY config for template paths from Tailwind docs 2 **tailwind.config.js**
     11. Test that TailwindCSS is functionnal (add tailwind classes to something and see if it workds)
+
+3. Build Simple Nav bar **pages/index.js**
+    1. Structure ur JSX : *main > section > nav > h1 | ul > li | li*
+    2. *import { BsFillMoonStarsFill } from 'react-icons/bs';*
+    3. Add burton fontFamily to the theme : { extend : { ... }} of *tailwind.config.js*
+    4. Style using tailwind classe **WHAT A FUCKING DELIGHT LOVE IT!**
+
