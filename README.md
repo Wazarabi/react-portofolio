@@ -46,3 +46,10 @@
     3. Add burton fontFamily to the theme : { extend : { ... }} of *tailwind.config.js*
     4. Style using tailwind classe **WHAT A FUCKING DELIGHT LOVE IT!**
 
+4. Front Page
+    1. Structure ur JSX : *main > section > nav | **div > h2 | h3 | p** | div > react-iconS*
+    2. *import { AiFillTwitterCircle } from 'react-icons/ai';*
+    3. Style using Tailwind
+    4. *import Image from "next/image"*
+    5. Structure JSX : *main > section > nav |div |div | div > Image*
+    6. Style using Tailwind
